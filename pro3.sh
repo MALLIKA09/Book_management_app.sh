@@ -57,6 +57,7 @@ do
         ;;
      quit)
         echo "thanks for using our app"
+        break
         ;;
      *)
         echo "choose correct choice"
